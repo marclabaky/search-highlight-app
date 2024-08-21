@@ -1,6 +1,6 @@
 # Search Highlight App
 
-This is a simple React-based application that allows users to search through a list of articles, with search terms being highlighted in the results.
+The Search Highlight Application is a simple React-based web application designed to help users search and filter through a list of articles. It highlights the search terms within both the titles and content of the articles, making it easier for users to find relevant information quickly.
 
 ## Features
 - Search through a list of articles
