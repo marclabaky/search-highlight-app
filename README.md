@@ -39,11 +39,11 @@ All the logic and functionality of the application are contained within the App.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/marclabaky/search-highlight-app.git
+   git clone https://github.com/your_username/repository_name.git
    
 2. Navigate to the project directory:
    ```bash
-   cd search-highlight-app
+   cd repository_name
 3. Install dependencies:
    ```bash
    npm install
